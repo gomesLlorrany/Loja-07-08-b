@@ -72,11 +72,11 @@ h2 {
   color: white;
   background-color: #2b4c40;
   border: none;
-  border-radius: 5px; /* Bordas arredondadas de 10px */
+  border-radius: 100px; /* Bordas arredondadas */
   cursor: pointer;
-  position: absolute; /* Move o botão para a posição correta */
+  position: absolute; /* Move o botão */
   top: 100px; /* 20px abaixo do menu */
-  right: 20px; /* Distância da direita */
+  right: 80px; /* Distância da direita */
 }
 
 .employee-list {
